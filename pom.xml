@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.sda4sda</groupId>
-	<artifactId>template-spring-boot-glitch</artifactId>
+	<artifactId>beliefsapp.rem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Template Spring Boot Service</name>
-	<description>Boilerplate for a Java Spring Boot service that can be hosted on Glitch.</description>
+	<name>sda4sda Adventists Beliefs Application Remote</name>
+	<description>Remote endpoints for sda4sda Adventists Beliefs Application.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
